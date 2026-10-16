@@ -1,0 +1,3 @@
+- reference/ ch? d?c, không s?a.
+- Không ch?y script root, không d?c keystore ho?c .env.
+- Ch? làm trong thu m?c này.
